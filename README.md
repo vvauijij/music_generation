@@ -1,1 +1,1 @@
-music_generation
+[Notes](notes/notes.pdf)
